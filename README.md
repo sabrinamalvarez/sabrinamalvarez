@@ -1,8 +1,8 @@
 # Sabrina Alvarez
 
-> [!IMPORTANT]
-> I'm a Computer Science student at FIU's Honors College pursuing a combined BS/MS with a focus on Cybersecurity. I enjoy building web applications that support small businesses and raise technology awareness among people without a technical background. I'm eager to explore the many paths in tech, guided by a commitment to servant leadership.
-> **Interests:** Outside of class, I enjoy boating, playing video games, and fostering academic growth in kids.
+| 👋 About Me |
+|:--|
+| Hi, I'm Sabrina, a Computer Science student at FIU's Honors College pursuing a combined BS/MS with a focus on Cybersecurity. I enjoy building web applications that support small businesses and raise technology awareness among people without a technical background. I'm eager to explore the many paths in tech, guided by a commitment to servant leadership.<br><br>**Interests:** Outside of class, I enjoy boating, playing video games, and fostering academic growth in kids. |
 
 ## 🛠️ Technical Skills
 
