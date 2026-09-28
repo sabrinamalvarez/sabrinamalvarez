@@ -6,10 +6,10 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, C, JavaScript
-**Back-End & Web:** FastAPI, Node.js, React, Supabase
-**AI / Machine Learning:** PyTorch, Gemini API
-**Tools:** Git, GitHub, Linux, IntelliJ, VS Code, Google Colab, Figma, UTM
+- **Languages:** Python, Java, C, JavaScript
+- **Back-End & Web:** FastAPI, Node.js, React, Supabase
+- **AI / Machine Learning:** PyTorch, Gemini API
+- **Tools:** Git, GitHub, Linux, IntelliJ, VS Code, Google Colab, Figma, UTM
 
 ### ☁️ Certifications
 
